@@ -1,0 +1,146 @@
+[
+  {
+    "id": "basics_1",
+    "skill": "Basics",
+    "prompt": "What is the correct form of 'I am'?",
+    "choices": ["I am", "I is", "I are", "I be"],
+    "answer_index": 0,
+    "difficulty": "easy"
+  },
+  {
+    "id": "basics_2",
+    "skill": "Basics",
+    "prompt": "Choose the correct verb: 'She ___ happy.'",
+    "choices": ["is", "are", "am", "be"],
+    "answer_index": 0,
+    "difficulty": "easy"
+  },
+  {
+    "id": "basics_3",
+    "skill": "Basics",
+    "prompt": "What is the past tense of 'go'?",
+    "choices": ["goed", "went", "gone", "goes"],
+    "answer_index": 1,
+    "difficulty": "medium"
+  },
+  {
+    "id": "basics_4",
+    "skill": "Basics",
+    "prompt": "What is the present continuous form of 'run'?",
+    "choices": ["running", "runing", "runned", "run"],
+    "answer_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "basics_5",
+    "skill": "Basics",
+    "prompt": "Which sentence is grammatically correct?",
+    "choices": ["He don't like apples", "He doesn't like apples", "He not like apples", "He no like apples"],
+    "answer_index": 1,
+    "difficulty": "hard"
+  },
+  {
+    "id": "basics_6",
+    "skill": "Basics",
+    "prompt": "What is the correct form for third person singular present?",
+    "choices": ["She go", "She goes", "She going", "She went"],
+    "answer_index": 1,
+    "difficulty": "hard"
+  },
+  {
+    "id": "plurals_1",
+    "skill": "Plurals",
+    "prompt": "What is the plural of 'child'?",
+    "choices": ["childs", "children", "childes", "child"],
+    "answer_index": 1,
+    "difficulty": "easy"
+  },
+  {
+    "id": "plurals_2",
+    "skill": "Plurals",
+    "prompt": "What is the plural of 'mouse'?",
+    "choices": ["mouses", "mice", "mouse", "mousies"],
+    "answer_index": 1,
+    "difficulty": "medium"
+  },
+  {
+    "id": "plurals_3",
+    "skill": "Plurals",
+    "prompt": "What is the plural of 'cactus'?",
+    "choices": ["cactuses", "cacti", "cactus", "cactuses or cacti"],
+    "answer_index": 3,
+    "difficulty": "hard"
+  },
+  {
+    "id": "plurals_4",
+    "skill": "Plurals",
+    "prompt": "What is the plural of 'foot'?",
+    "choices": ["foots", "feet", "foot", "footes"],
+    "answer_index": 1,
+    "difficulty": "easy"
+  },
+  {
+    "id": "plurals_5",
+    "skill": "Plurals",
+    "prompt": "What is the plural of 'tooth'?",
+    "choices": ["tooths", "teeth", "tooth", "toothen"],
+    "answer_index": 1,
+    "difficulty": "medium"
+  },
+  {
+    "id": "plurals_6",
+    "skill": "Plurals",
+    "prompt": "What is the plural of 'crisis'?",
+    "choices": ["crisises", "crises", "crisis", "crisi"],
+    "answer_index": 1,
+    "difficulty": "hard"
+  },
+  {
+    "id": "irregular_1",
+    "skill": "IrregularVerbs",
+    "prompt": "What is the past tense of 'swim'?",
+    "choices": ["swimmed", "swam", "swum", "swim"],
+    "answer_index": 1,
+    "difficulty": "easy"
+  },
+  {
+    "id": "irregular_2",
+    "skill": "IrregularVerbs",
+    "prompt": "What is the past participle of 'break'?",
+    "choices": ["breaked", "broke", "broken", "break"],
+    "answer_index": 2,
+    "difficulty": "medium"
+  },
+  {
+    "id": "irregular_3",
+    "skill": "IrregularVerbs",
+    "prompt": "What is the past tense of 'lie' (to recline)?",
+    "choices": ["lied", "lay", "lain", "lie"],
+    "answer_index": 1,
+    "difficulty": "hard"
+  },
+  {
+    "id": "irregular_4",
+    "skill": "IrregularVerbs",
+    "prompt": "What is the past tense of 'see'?",
+    "choices": ["seed", "saw", "seen", "see"],
+    "answer_index": 1,
+    "difficulty": "easy"
+  },
+  {
+    "id": "irregular_5",
+    "skill": "IrregularVerbs",
+    "prompt": "What is the past participle of 'write'?",
+    "choices": ["writed", "wrote", "written", "write"],
+    "answer_index": 2,
+    "difficulty": "medium"
+  },
+  {
+    "id": "irregular_6",
+    "skill": "IrregularVerbs",
+    "prompt": "What is the past tense of 'choose'?",
+    "choices": ["choosed", "chose", "chosen", "choose"],
+    "answer_index": 1,
+    "difficulty": "hard"
+  }
+]
