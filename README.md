@@ -253,9 +253,6 @@ VITE_API_URL=http://localhost:8000
 4. Run tests and linting
 5. Submit a pull request
 
-## License
-
-MIT License - see [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
